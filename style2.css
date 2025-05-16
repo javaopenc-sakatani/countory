@@ -1,0 +1,19 @@
+body{
+    color:#333333;
+    background-color:#f8f8f8;
+    font-family:sans-serif;
+}
+
+h1{color:pink;
+    border-bottom: 3px solid gray;
+}
+h2{
+    color:#009966;
+    background-color:#e0f7e9;
+    padding: 10px;
+}
+ul{
+    margin-left:20px;
+    padding: 20px 20px;
+}
+
